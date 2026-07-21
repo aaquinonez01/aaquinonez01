@@ -15,14 +15,11 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/alexander-arboleda-b96b45219">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:TU_EMAIL@ejemplo.com">
+<a href="mailto:aaquinonez@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://TU_PORTAFOLIO.com">
-  <img src="https://img.shields.io/badge/Portafolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
 </a>
 
 </div>
@@ -126,24 +123,27 @@ const alexander = {
 
 <div align="center">
 
-<!-- Reemplaza NOMBRE_REPO con el nombre real de tus repositorios -->
-<a href="https://github.com/aaquinonez01/NOMBRE_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Proyecto 1"/>
+<a href="https://github.com/aaquinonez01/jmv_ecuador_web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=jmv_ecuador_web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="JMV Ecuador Web"/>
 </a>
-<a href="https://github.com/aaquinonez01/NOMBRE_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Proyecto 2"/>
+<a href="https://github.com/aaquinonez01/jmv_ecuador_backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=jmv_ecuador_backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="JMV Ecuador Backend"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/aaquinonez01/NOMBRE_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=NOMBRE_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Proyecto 3"/>
-</a>
-<a href="https://github.com/aaquinonez01/NOMBRE_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=NOMBRE_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Proyecto 4"/>
+<a href="https://github.com/aaquinonez01/whatsapp-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=whatsapp-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="WhatsApp Service"/>
 </a>
 
 </div>
+
+### 🔒 Otros proyectos
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🍳 **app-chef-escolastico** | Aplicación privada de gestión gastronómica | `TypeScript` |
+| 📱 **jmv-app-mobile** | Aplicación móvil del ecosistema JMV Ecuador | `TypeScript` `React Native` |
 
 <br/>
 
