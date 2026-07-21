@@ -1,205 +1,126 @@
-<div align="center">
+<!-- ═══════════════════ SALUDO ═══════════════════ -->
+<h1 align="center">
+  ¡Hola! 👋 Soy Alexander Quiñonez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
-<!-- ═══════════════════ BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alexander%20Qui%C3%B1onez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Software%20%7C%20Full%20Stack%20%7C%20Mobile&descSize=20&descAlignY=55" width="100%"/>
+<h3 align="center">💻 Ingeniero de Software · Full Stack & Mobile Developer · Ecuador 🇪🇨</h3>
 
-<!-- ═══════════════════ TYPING ═══════════════════ -->
-<a href="https://github.com/aaquinonez01">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile;Angular+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Vue;Spring+Boot+%E2%80%A2+NestJS+%E2%80%A2+.NET;Siempre+aprendiendo+algo+nuevo+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Me+encanta+crear+cosas+con+c%C3%B3digo+%E2%9C%A8;Del+frontend+al+backend+y+al+m%C3%B3vil+%F0%9F%93%B1;Siempre+con+ganas+de+aprender+algo+nuevo+%F0%9F%8C%B1" alt="Typing"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-arboleda-b96b45219">
+    <img src="https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aaquinonez@gmail.com">
+    <img src="https://img.shields.io/badge/-Escríbeme_un_correo-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aaquinonez01&style=flat-square&color=58A6FF&label=Visitas"/>
+</p>
 
-<!-- ═══════════════════ CONTADOR Y REDES ═══════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=aaquinonez01&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/alexander-arboleda-b96b45219">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:aaquinonez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<br/>
+---
 
 <!-- ═══════════════════ SOBRE MÍ ═══════════════════ -->
-## 👨‍💻 Sobre mí
+## 🙋‍♂️ Un poco sobre mí
 
-```typescript
-const alexander = {
-  rol: "Ingeniero de Software",
-  ubicacion: "Ecuador 🇪🇨",
-  especialidades: ["Full Stack", "Mobile", "Bases de Datos"],
-  fortalezas: [
-    "Desarrollo Frontend y Backend",
-    "Aplicaciones móviles multiplataforma",
-    "Procedimientos almacenados, vistas y optimización SQL",
-  ],
-  aprendiendoAhora: "Nuevas tecnologías cada día 🚀",
-  filosofia: "El código limpio no se escribe, se reescribe",
-};
-```
+- 🚀 Construyo aplicaciones **web y móviles** de principio a fin: desde la interfaz hasta la base de datos
+- 🎨 En el frontend me muevo con **Angular, React, Next.js y Vue**
+- ⚙️ En el backend disfruto trabajar con **Spring Boot, NestJS, Express y .NET**
+- 📱 Para móvil uso **Flutter** y **React Native**
+- 🗄️ Me encantan las bases de datos: **procedimientos almacenados, vistas, triggers** y dejar las consultas bien optimizadas
+- 🌱 Siempre estoy aprendiendo algo nuevo — la tecnología no se detiene y yo tampoco
+- ☕ Dato curioso: mi mejor código sale después de un buen café
 
-- 🔭 Trabajo con arquitecturas **Full Stack** modernas y escalables
-- 🗄️ Experiencia sólida en **bases de datos**: procedimientos almacenados, vistas, triggers y optimización de consultas
-- 📱 Desarrollo **mobile** multiplataforma con Flutter y React Native
-- 💡 Me apasiona aprender y aplicar nuevas tecnologías
-
-<br/>
+---
 
 <!-- ═══════════════════ TECNOLOGÍAS ═══════════════════ -->
-## 🛠️ Stack Tecnológico
+## 🧰 Con qué trabajo
 
-### 💬 Lenguajes
-<p>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/es-es/sql/t-sql/language-reference"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,dart&perline=5" alt="Lenguajes"/>
+  <br/><sub><b>Lenguajes</b></sub>
 </p>
 
-### 🎨 Frontend
-<p>
-  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a>
-  <a href="https://jakarta.ee/specifications/faces/"><img src="https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue&perline=4" alt="Frontend"/>
+  <br/><sub><b>Frontend</b></sub>
 </p>
 
-### ⚙️ Backend
-<p>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,express,dotnet,nodejs&perline=5" alt="Backend"/>
+  <br/><sub><b>Backend</b></sub>
 </p>
 
-### 📱 Mobile
-<p>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" alt="Mobile"/>
+  <br/><sub><b>Mobile</b></sub>
 </p>
 
-### 🗄️ Bases de Datos
-<p>
-  <a href="https://www.microsoft.com/es-es/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,vscode&perline=6" alt="Bases de datos y herramientas"/>
+  <br/><sub><b>Bases de datos & Herramientas</b></sub>
 </p>
 
-### 🧰 Herramientas
-<p>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/aaquinonez01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-24243e?style=for-the-badge&logo=codecrafters&logoColor=007ACC"/></a>
+<p align="center">
+  <sub>➕ También: SQL Server, JSF y React Native</sub>
 </p>
 
-<br/>
+---
+
+<!-- ═══════════════════ PROYECTOS ═══════════════════ -->
+## 💼 Mis proyectos
+
+### ⭐ Proyecto principal
+
+> ### 🍳 App Chef Escolástico
+> Aplicación completa de gestión gastronómica: recetas, menús y operaciones de cocina con un panel web moderno.
+>
+> `Next.js` · `React` · `TypeScript` · `PostgreSQL` &nbsp;🔒 *Repositorio privado*
+
+### 📂 Otros proyectos
+
+| | Proyecto | ¿Qué hace? | Tecnologías |
+|---|----------|------------|-------------|
+| 🌐 | [**JMV Ecuador Web**](https://github.com/aaquinonez01/jmv_ecuador_web) | Plataforma web del ecosistema JMV Ecuador | `TypeScript` `React` |
+| ⚙️ | [**JMV Ecuador Backend**](https://github.com/aaquinonez01/jmv_ecuador_backend) | API y lógica de negocio del ecosistema JMV | `TypeScript` `NestJS` `PostgreSQL` |
+| 💬 | [**WhatsApp Service**](https://github.com/aaquinonez01/whatsapp-service) | Servicio de mensajería e integración con WhatsApp | `TypeScript` `Node.js` |
+| 📱 | **JMV App Mobile** 🔒 | App móvil del ecosistema JMV Ecuador | `TypeScript` `React Native` |
+
+---
 
 <!-- ═══════════════════ ESTADÍSTICAS ═══════════════════ -->
-## 📊 Mis Estadísticas
+## 📈 Mi actividad
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaquinonez01&theme=tokyonight" alt="Stats de GitHub"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaquinonez01&theme=tokyonight" alt="Lenguajes más usados"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaquinonez01&theme=nord_dark" alt="Stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaquinonez01&theme=nord_dark" alt="Lenguajes"/>
+</p>
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaquinonez01&theme=tokyonight" alt="Lenguajes con más commits"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaquinonez01&theme=tokyonight&utcOffset=-5" alt="Horas productivas"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aaquinonez01&theme=nord_dark&hide_border=true" alt="Racha"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aaquinonez01&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Racha de contribuciones"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════ PROYECTOS DESTACADOS ═══════════════════ -->
-## 🚀 Proyectos Destacados
-
-<!-- ─────────── PROYECTO PRINCIPAL ─────────── -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <h3>🍳 App Chef Escolástico</h3>
-      <p><em>⭐ Proyecto principal</em></p>
-      <p>Aplicación completa de gestión gastronómica: administración de recetas,<br/>menús y operaciones de cocina con panel web moderno.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-24243e?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ─────────── OTROS PROYECTOS ─────────── -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h4>🌐 <a href="https://github.com/aaquinonez01/jmv_ecuador_web">JMV Ecuador Web</a></h4>
-      <p>Plataforma web del ecosistema JMV Ecuador</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h4>⚙️ <a href="https://github.com/aaquinonez01/jmv_ecuador_backend">JMV Ecuador Backend</a></h4>
-      <p>API y lógica de negocio del ecosistema JMV</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h4>💬 <a href="https://github.com/aaquinonez01/whatsapp-service">WhatsApp Service</a></h4>
-      <p>Servicio de mensajería e integración con WhatsApp</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h4>📱 JMV App Mobile</h4>
-      <p>Aplicación móvil del ecosistema JMV Ecuador</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-      <img src="https://img.shields.io/badge/🔒_Privado-24243e?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
+---
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
-## 🐍 Contribuciones
+## 🐍 Mi jardín de contribuciones
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/aaquinonez01/aaquinonez01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+</p>
 
-<br/>
+---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-</div>
+<!-- ═══════════════════ DESPEDIDA ═══════════════════ -->
+<h3 align="center">✨ Gracias por pasar por aquí ✨</h3>
+
+<p align="center">
+  Si te gustó alguno de mis proyectos, una ⭐ siempre alegra el día.<br/>
+  ¿Tienes una idea o propuesta? <a href="mailto:aaquinonez@gmail.com">¡Hablemos!</a> 😊
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:58A6FF&height=100&section=footer" width="100%"/>
+</p>
