@@ -108,12 +108,12 @@ const alexander = {
 ## 📊 Mis Estadísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aaquinonez01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="Stats de GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaquinonez01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8" alt="Lenguajes más usados"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aaquinonez01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&cache_seconds=86400" alt="Stats de GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaquinonez01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaquinonez01&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=aaquinonez01&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Racha de contribuciones"/>
 </div>
 
 <br/>
@@ -121,29 +121,67 @@ const alexander = {
 <!-- ═══════════════════ PROYECTOS DESTACADOS ═══════════════════ -->
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/aaquinonez01/jmv_ecuador_web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=jmv_ecuador_web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="JMV Ecuador Web"/>
-</a>
-<a href="https://github.com/aaquinonez01/jmv_ecuador_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=jmv_ecuador_backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="JMV Ecuador Backend"/>
-</a>
+<!-- ─────────── PROYECTO PRINCIPAL ─────────── -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <h3>🍳 App Chef Escolástico</h3>
+      <p><em>⭐ Proyecto principal</em></p>
+      <p>Aplicación completa de gestión gastronómica: administración de recetas,<br/>menús y operaciones de cocina con panel web moderno.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-24243e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/aaquinonez01/whatsapp-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaquinonez01&repo=whatsapp-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="WhatsApp Service"/>
-</a>
-
-</div>
-
-### 🔒 Otros proyectos
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🍳 **app-chef-escolastico** | Aplicación privada de gestión gastronómica | `TypeScript` |
-| 📱 **jmv-app-mobile** | Aplicación móvil del ecosistema JMV Ecuador | `TypeScript` `React Native` |
+<!-- ─────────── OTROS PROYECTOS ─────────── -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🌐 <a href="https://github.com/aaquinonez01/jmv_ecuador_web">JMV Ecuador Web</a></h4>
+      <p>Plataforma web del ecosistema JMV Ecuador</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h4>⚙️ <a href="https://github.com/aaquinonez01/jmv_ecuador_backend">JMV Ecuador Backend</a></h4>
+      <p>API y lógica de negocio del ecosistema JMV</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>💬 <a href="https://github.com/aaquinonez01/whatsapp-service">WhatsApp Service</a></h4>
+      <p>Servicio de mensajería e integración con WhatsApp</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h4>📱 JMV App Mobile</h4>
+      <p>Aplicación móvil del ecosistema JMV Ecuador</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+      <img src="https://img.shields.io/badge/🔒_Privado-24243e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
